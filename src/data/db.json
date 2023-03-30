@@ -1,0 +1,74 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "type": "Labrador Retriever",
+      "price": 45,
+      "image": "https://puppiezo.com/media/catalog/product/cache/2d4241269bd18b5b155208c8514f378e/l/a/labrador-retriever_1.jpg",
+      "description": "Labrador Retrievers are friendly, outgoing, and high-spirited dogs known for their loyalty and intelligence."
+    },
+    {
+      "id": 2,
+      "type": "German Shepherd",
+      "price": 55,
+      "image": "https://www.pashulok.com/admin/uploads/5de2104cde091.png",
+      "description": "German Shepherds are intelligent, protective, and versatile dogs known for their courage and loyalty."
+    },
+    {
+      "id": 3,
+      "type": "Golden Retriever",
+      "price": 50,
+      "image": "https://www.zooplus.be/magazine/wp-content/uploads/2017/03/fotolia_66749097-1024x727.jpg",
+      "description": "The Labrador Retriever is a friendly, outgoing and high-spirited dog breed."
+    },
+    {
+      "id": 4,
+      "type": "Poodle",
+      "price": 65,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Full_attention_%288067543690%29.jpg",
+      "description": "Poodles are intelligent, elegant, and hypoallergenic dogs known for their curly coats and refined personalities."
+    },
+    {
+      "id": 5,
+      "type": "Bulldog",
+      "price": 40,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bulldog_inglese.jpg",
+      "description": "Bulldogs are loyal, friendly, and lazy dogs known for their wrinkly faces and stocky builds."
+    },
+    {
+      "id": 6,
+      "type": "Dachshund",
+      "price": 30,
+      "image": "https://hellobark.com/wp-content/uploads/dachshund-hello-bark-1.jpg",
+      "description": "Dachshunds, also known as wiener dogs, are brave, curious, and stubborn dogs known for their long bodies and short legs."
+    },
+    {
+      "id": 7,
+      "type": "Chihuahua",
+      "price": 25,
+      "image": "https://www.purina.fr/sites/default/files/styles/ttt_image_690/public/2021-02/BREED%20Hero%20Mobile_0140_chihuahua_smooth.webp?itok=6bmKs1hY",
+      "description": "The Chihuahua is a small but feisty dog breed."
+    },
+    {
+      "id": 8,
+      "type": "Rottweiler",
+      "price": 60,
+      "image": "https://img2.storyblok.com/filters:format(webp)/f/83829/1200x628/205841e494/chien-race-rottweiler.jpg",
+      "description": "The Rottweiler is a breed of domestic dog, regarded as medium-to-large or large."
+    },
+    {
+      "id": 9,
+      "type": "Siberian Husky",
+      "price": 70,
+      "image": "https://www.thesprucepets.com/thmb/zFTw-Uw5_K3ZqwbqcFvt5YtG_-0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/40539405_2161860974092198_1325213908451368757_n-5b983819c9e77c0050f7e8d4.jpg",
+      "description": "The Siberian Husky is a breed of medium-sized working dogs."
+    },
+    {
+      "id": 10,
+      "type": "Bichon Frise",
+      "price": 50,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bichon_Fris%C3%A9_-_studdogbichon.jpg",
+      "description": "The Bichon Frise is a small breed of dog known for their playful and affectionate personalities."
+    }
+  ]
+}
